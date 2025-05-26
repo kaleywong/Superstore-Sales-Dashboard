@@ -8,19 +8,19 @@ An interactive Tableau dashboard analyzing sales performance, profitability, and
 
 This dashboard provides a comprehensive overview of Superstore's sales data with the following features:
 
-- **KPI Cards:** Total Sales, Total Profit, Average Order Value (AOV), and Profit Margin  
+- **KPI Cards:** Total Sales, Total Profit, Average Order Value (AOV), and Profit Margin, displayed on the **right side** for quick reference  
 - **Sales Trend:** Line chart showing sales performance over time (monthly/yearly)  
 - **Category & Segment Analysis:** Breakdown of sales and profits by product category and customer segment  
 - **Geographic Insights:** Regional performance comparisons  
-- **Interactive Filters:** Users can filter data by Region, Category, and Order Date to explore trends dynamically
+- **Interactive Filter:** Region filter available on the dashboard to dynamically explore sales data by geographic area
 
 ---
 
 ## 🚀 How to Use
 
-- Navigate through KPIs at the top for quick insights  
+- View KPIs on the right side for key performance insights  
 - Explore sales trends and category breakdowns for detailed analysis  
-- Use filters on the side or top to customize the dashboard view by region, product category, or date range  
+- Use the **Region filter** to customize the dashboard view by geographic area  
 
 ---
 
